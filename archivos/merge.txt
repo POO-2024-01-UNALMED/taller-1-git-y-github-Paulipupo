@@ -1,0 +1,1 @@
+Ahora es posible ver la carpeta de archivos porque después de crear un archivo dentro de la misma esta carpeta fue tomada dentro de los cambios del commit junto al archivo creado, por lo que se pudo subir la carpeta.
