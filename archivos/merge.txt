@@ -1,3 +1,7 @@
 Maria Paulina Pupo Marin
 17 años
 Mi inspiración para esta materia es aprender los paradigmas de la programación orientada a objetos y conseguir las bases necesarias para poder aplicar el uso de clases y objetos en la solución de problemas y creación de proyectos.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ahora es posible ver la carpeta de archivos porque después de crear un archivo dentro de la misma esta carpeta fue tomada dentro de los cambios del commit junto al archivo creado, por lo que se pudo subir la carpeta.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Es importante tener cuidado a la hora de editar archiivos al mismo tiempo pues puede generar un conflicto entre los cambios realizados a la hora de subirlos, que puede resultar en una pérdida de dichos cambios y tocará hacer una selección manual de los cambios que queremos mantener.
