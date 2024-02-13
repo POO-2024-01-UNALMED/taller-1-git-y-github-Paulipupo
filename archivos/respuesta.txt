@@ -1,0 +1,1 @@
+No me permitió realizar el commit después de crear la carpeta de archivos pues al estar vacía esta carpeta no se considera como un cambio significativo.
